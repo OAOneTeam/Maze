@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE properties SYSTEM
+    "http://java.sun.com/dtd/properties.dtd">
+<properties >
+    <entry key="ad_offer_error">[BLACK]Unfortunately, video is not available.</entry>
+    <entry key="ad_offer_hint">[DARK_GRAY]In order to watch video press the heart icon.</entry>
+    <entry key="ad_offer_life_obtained">[FIREBRICK]Extra life granted</entry>
+    <entry key="ad_offer_need_to_watch">[BLACK]You have to watch video until its end</entry>
+    <entry key="ad_offer_top">[BLACK]You may get extra life by watching/
+        [BLACK]short video.
+    </entry>
+    <entry key="all_complete">[BLACK]Congratulations!/[FIREBRICK]The game is totally completed.</entry>
+    <entry key="button_settings">[DARK_GRAY]Set size and position of the buttons:</entry>
+    <entry key="controls_changed">[DARK_GRAY]Чтобы изменения вступили в
+        силу,/[DARK_GRAY]перезапустите игру.
+    </entry>
+    <entry key="exit">Do you want to close the game ?</entry>
+    <entry key="exit_save">Save game and exit ?</entry>
+    <entry key="game_menu_control">[BROWN]Control</entry>
+    <entry key="game_menu_exit">[DARK_GRAY]Exit</entry>
+    <entry key="game_menu_restart">[BLACK]Restart</entry>
+    <entry key="game_menu_save">[DARK_GRAY]Save</entry>
+    <entry key="game_menu_shop">[FIREBRICK]Shop</entry>
+    <entry key="hint_scroll">Tap icon to open item.</entry>
+    <entry key="life_obtained">[BLACK]Extra life.</entry>
+    <entry key="maze">MAZE</entry>
+    <entry key="one_complete">[BLACK]FIRST PART IS OPEN!/[FIREBRICK]Reward is five
+        extra
+        lives.</entry>
+    <entry key="pane_099">[DARK_GRAY]Get [FIREBRICK]FIVE[DARK_GRAY] lives and continue/
+        [DARK_GRAY]from the maze [TEAL]#%d[DARK_GRAY] where/
+        [DARK_GRAY]lives were over.
+    </entry>
+    <entry key="pane_099_1">[DARK_GRAY]Get [FIREBRICK]FIVE[DARK_GRAY] lives and continue.
+    </entry>
+    <entry key="pane_100">[TEAL]Skip current level and go to the /[TEAL]next one.</entry>
+    <entry key="pane_130">[DARK_GRAY]Get [FIREBRICK]TEN[DARK_GRAY] lives and continue/
+        [DARK_GRAY]from the maze [TEAL]#%d[DARK_GRAY] where/
+        [DARK_GRAY]lives were over.</entry>
+    <entry key="pane_130_1">[DARK_GRAY]Get [FIREBRICK]TEN[DARK_GRAY] lives and continue.</entry>
+    <entry key="pane_160">[DARK_GRAY]Get [FIREBRICK]TWENTY[DARK_GRAY] lives and continue/
+        [DARK_GRAY]from the maze [TEAL]#%d[DARK_GRAY] where/
+        [DARK_GRAY]lives were over.</entry>
+    <entry key="pane_160_1">[DARK_GRAY]Get [FIREBRICK]TWENTY[DARK_GRAY] lives and continue.
+    </entry>
+    <entry key="pane_250">[DARK_GRAY]Opens [FIREBRICK]SECOND[DARK_GRAY] part of the game,/
+        [DARK_GRAY]mazes [TEAL]from I to XXVI.
+
+    </entry>
+    <entry key="pane_400">[DARK_GRAY]Opens [FIREBRICK]ALL[DARK_GRAY] mazes.</entry>
+    <entry key="price_099">Get /FIVE/ lives.</entry>
+    <entry key="price_100">Go to the /NEXT/ maze.</entry>
+    <entry key="price_130">Get /TEN/ lives.</entry>
+    <entry key="price_160">Get /TWENTY/ lives.</entry>
+    <entry key="price_250">Opens the /SECOND/ part.</entry>
+    <entry key="price_400">Opens /ALL/ mazes.</entry>
+    <entry key="privacy_warning">The application does not collect and send private user data to
+        third party persons and services./
+        [GRAY]The application uses the following services:/
+        [SKY]GooglePlayServices, AdMob, ADColony, Firebase Analytics, Fabric/
+        By using this application you are agreeing with privacy policy./
+        [GREEN]Please read the privacy policy.
+    </entry>
+</properties>

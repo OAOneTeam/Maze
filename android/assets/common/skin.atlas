@@ -1,0 +1,237 @@
+
+skin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apply
+  rotate: false
+  xy: 1720, 1556
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+button_settings
+  rotate: false
+  xy: 1720, 1654
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+button_settings_d
+  rotate: false
+  xy: 1163, 1400
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+checkbox_off
+  rotate: false
+  xy: 1293, 1464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+checkbox_on
+  rotate: false
+  xy: 1818, 1588
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 903, 1270
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+close
+  rotate: false
+  xy: 1980, 1978
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+font
+  rotate: false
+  xy: 1027, 1530
+  size: 540, 512
+  orig: 540, 512
+  offset: 0, 0
+  index: -1
+font_32
+  rotate: false
+  xy: 1569, 1530
+  size: 149, 512
+  orig: 149, 512
+  offset: 0, 0
+  index: -1
+h_scroll
+  rotate: false
+  xy: 1, 1256
+  size: 640, 272
+  orig: 640, 272
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 1, 930
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lives_10
+  rotate: false
+  xy: 1850, 1914
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lives_20
+  rotate: false
+  xy: 773, 1270
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lives_5
+  rotate: false
+  xy: 1720, 1784
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 1, 1190
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1
+one
+  rotate: false
+  xy: 1, 572
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+open_all
+  rotate: false
+  xy: 1, 800
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+open_one
+  rotate: false
+  xy: 903, 1400
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+price099
+  rotate: false
+  xy: 643, 1400
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+price100
+  rotate: false
+  xy: 1033, 1400
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+price130
+  rotate: false
+  xy: 1, 1060
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+price160
+  rotate: false
+  xy: 1720, 1914
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+price250
+  rotate: false
+  xy: 643, 1270
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+price400
+  rotate: false
+  xy: 773, 1400
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+rip
+  rotate: false
+  xy: 1, 670
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+rip_d
+  rotate: false
+  xy: 1850, 1654
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shop
+  rotate: false
+  xy: 1850, 1784
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shop_d
+  rotate: false
+  xy: 1033, 1270
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+slider_knob
+  rotate: false
+  xy: 325, 1222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+small_slider
+  rotate: false
+  xy: 195, 1222
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+transparent
+  rotate: false
+  xy: 131, 1156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+two
+  rotate: false
+  xy: 1163, 1302
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+v_scroll
+  rotate: false
+  xy: 1, 1530
+  size: 1024, 512
+  orig: 1024, 512
+  offset: 0, 0
+  index: -1

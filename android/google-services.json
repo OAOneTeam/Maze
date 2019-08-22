@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1063319433805",
+    "firebase_url": "https://klad-28655789.firebaseio.com",
+    "project_id": "klad-28655789",
+    "storage_bucket": "klad-28655789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063319433805:android:deb8bf0ccd79e3f5",
+        "android_client_info": {
+          "package_name": "com.second_encounter.alexandr.klad_se"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063319433805-2qftl85df52ham95t613p6bb4dteuj13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.second_encounter.alexandr.klad_se",
+            "certificate_hash": "f0f0e89bd23d6ee66ca85c2ee1bb9e4500999fc2"
+          }
+        },
+        {
+          "client_id": "1063319433805-aamd9jutm8v858eg3bc4bnm9grn6tpm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFMbl0P6P3Djt9_D3owvSsQ0KEmFhj7gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063319433805-aamd9jutm8v858eg3bc4bnm9grn6tpm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7777462457196062~6743021239"
+    }
+  ],
+  "configuration_version": "1"
+}

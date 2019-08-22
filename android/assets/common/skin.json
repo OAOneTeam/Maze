@@ -1,0 +1,124 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font: {
+		file: font.fnt
+	}
+	font_32: {
+		file: font_32.fnt
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+	default: {
+		checkboxOn: checkbox_on
+		checkboxOff: checkbox_off
+		font: font
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	close: {
+		imageUp: close
+	}
+	apply: {
+		imageUp: apply
+	}
+	open_one: {
+		imageUp: one
+	}
+	open_all: {
+		imageUp: two
+	}
+	price_099: {
+		imageUp: price099
+	}
+	price_130: {
+		imageUp: price130
+	}
+	price_160: {
+		imageUp: price160
+	}
+	price_250: {
+		imageUp: price250
+	}
+	price_400: {
+		imageUp: price400
+	}
+	scroll_jump: {
+		imageUp: jump
+	}
+	scroll_lives_5: {
+		imageUp: lives_5
+	}
+	scroll_lives_10: {
+		imageUp: lives_10
+	}
+	scroll_lives_20: {
+		imageUp: lives_20
+	}
+	scroll_open_one: {
+		imageUp: open_one
+	}
+	scroll_open_all: {
+		imageUp: open_all
+	}
+	menu: {
+		imageUp: menu
+	}
+	button_settings: {
+		imageUp: button_settings
+		imageDisabled: button_settings_d
+	}
+	shop: {
+		imageUp: shop
+		imageDisabled: shop_d
+	}
+	chest: {
+		imageUp: chest
+	}
+	price_100: {
+		imageUp: price100
+	}
+	rip: {
+		imageUp: rip
+		imageDisabled: rip_d
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font
+	}
+	font_32: {
+		font: font_32
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: {
+		background: transparent
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	small: {
+		background: small_slider
+		knob: slider_knob
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: font_32
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	horizontal: {
+		background: h_scroll
+		titleFont: font
+	}
+	vertical: {
+		background: v_scroll
+		titleFont: font
+	}
+}
+}

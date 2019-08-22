@@ -1,0 +1,25 @@
+sprite.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+language
+  rotate: false
+  xy: 1462, 2
+  size: 320, 64
+  orig: 320, 64
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 2, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+help
+  rotate: false
+  xy: 260, 2
+  size: 1200, 384
+  orig: 1200, 384
+  offset: 0, 0
+  index: -1

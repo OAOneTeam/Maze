@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE properties SYSTEM
+    "http://java.sun.com/dtd/properties.dtd">
+<properties >
+    <entry key="ad_offer_error">[BLACK]К сожалению видео недоступно.</entry>
+    <entry key="ad_offer_hint">[DARK_GRAY]Чтобы просмотреть видео, нажмите на иконку с сердцем.</entry>
+    <entry key="ad_offer_life_obtained">[FIREBRICK]Получена дополнительная жизнь.</entry>
+    <entry key="ad_offer_need_to_watch">[BLACK]Видео нужно досмотреть до конца.</entry>
+    <entry key="ad_offer_top">[BLACK]Можно получить одну дополнительную жизнь,/
+        [BLACK]просмотрев короткое видео.
+    </entry>
+    <entry key="all_complete">[BLACK]ПРИМИТЕ ПОЗДРАВЛЕНИЯ !/[FIREBRICK]Игра пройдена полностью.</entry>
+    <entry key="button_settings">[DARK_GRAY]Настройте размер и расположение кнопок:
+    </entry>
+    <entry key="controls_changed">[DARK_GRAY]To apply changes
+        [DARK_GRAY]restart the game.
+    </entry>
+    <entry key="exit">Вы хотите выйти из игры ?</entry>
+    <entry key="exit_save">Сохранить игру и выйти ?</entry>
+    <entry key="game_menu_control">[BROWN]Управление</entry>
+    <entry key="game_menu_exit">[DARK_GRAY]Выход</entry>
+    <entry key="game_menu_restart">[BLACK]Заново</entry>
+    <entry key="game_menu_save">[DARK_GRAY]Сохранить</entry>
+    <entry key="game_menu_shop">[FIREBRICK]Магазин</entry>
+    <entry key="hint_scroll">Для того, чтобы открыть товар, нажмите на иконку.</entry>
+    <entry key="life_obtained">[BLACK]Дополнительная жизнь.</entry>
+    <entry key="maze">КЛАД</entry>
+    <entry key="one_complete">[BLACK]ПЕРВАЯ ЧАСТЬ ОТКРЫТА !/[FIREBRICK]Вознаграждение - пять
+        дополнительных
+        жизней.</entry>
+    <entry key="pane_099">[DARK_GRAY]Получить [FIREBRICK]ПЯТЬ[DARK_GRAY] жизней и продолжить/
+        [DARK_GRAY]игру с лабиринта [TEAL]#%d[DARK_GRAY], на котором/
+        [DARK_GRAY]закончились жизни.</entry>
+    <entry key="pane_099_1">[DARK_GRAY]Получить [FIREBRICK]ПЯТЬ[DARK_GRAY] жизней и продолжить.
+    </entry>
+    <entry key="pane_100">[TEAL]Пропустить текущий лабиринт и перейти/[TEAL]на следующий.</entry>
+    <entry key="pane_130">[DARK_GRAY]Получить [FIREBRICK]ДЕСЯТЬ[DARK_GRAY] жизней и продолжить/
+        [DARK_GRAY]игру с лабиринта [TEAL]#%d[DARK_GRAY], на котором/
+        [DARK_GRAY]закончились жизни.</entry>
+    <entry key="pane_130_1">[DARK_GRAY]Получить [FIREBRICK]ДЕСЯТЬ[DARK_GRAY] жизней и продолжить.
+    </entry>
+    <entry key="pane_160">[DARK_GRAY]Получить [FIREBRICK]ДВАДЦАТЬ[DARK_GRAY] жизней и продолжить/
+        [DARK_GRAY]игру с лабиринта [TEAL]#%d[DARK_GRAY], на котором/
+        [DARK_GRAY]закончились жизни.</entry>
+    <entry key="pane_160_1">[DARK_GRAY]Получить [FIREBRICK]ДВАДЦАТЬ[DARK_GRAY] жизней и продолжить.</entry>
+    <entry key="pane_250">[DARK_GRAY]Открывает доступ ко [FIREBRICK]ВТОРОЙ[DARK_GRAY] части игры,/
+        [DARK_GRAY]лабиринты [TEAL]с I по XXVI.
+    </entry>
+    <entry key="pane_400">[DARK_GRAY]Открывает доступ ко [FIREBRICK]ВСЕМ[DARK_GRAY] лабиринтам.</entry>
+    <entry key="price_099">Получить /ПЯТЬ/ жизней.</entry>
+    <entry key="price_100">Переход на /СЛЕДУЮЩИЙ/ лабиринт.</entry>
+    <entry key="price_130">Получить /ДЕСЯТЬ/ жизней.</entry>
+    <entry key="price_160">Получить /ДВАДЦАТЬ/ жизней.</entry>
+    <entry key="price_250">Доступ ко /ВТОРОЙ/ части.</entry>
+    <entry key="price_400">Доступ ко /ВСЕМ/ лабиринтам.</entry>
+    <entry key="privacy_warning">Это приложение не собирает и не передает личные данные
+        пользователей третьим лицам./
+        [GRAY]Приложение использует сервисы:/
+        [SKY]GooglePlayServices, AdMob, ADColony, Firebase Analytics, Fabric/
+        Используя это приложение Вы соглашаетесь с условиями политики конфиденциальности./
+        [GREEN]Ознакомтесь пожалуйста с политикой конфиденциальности.
+    </entry>
+</properties>

@@ -1,0 +1,76 @@
+
+skin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agility
+  rotate: false
+  xy: 1, 897
+  size: 480, 64
+  orig: 480, 64
+  offset: 0, 0
+  index: -1
+controls
+  rotate: false
+  xy: 1, 831
+  size: 480, 64
+  orig: 480, 64
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 483, 897
+  size: 480, 64
+  orig: 480, 64
+  offset: 0, 0
+  index: -1
+game
+  rotate: false
+  xy: 1, 765
+  size: 480, 64
+  orig: 480, 64
+  offset: 0, 0
+  index: -1
+gamepad
+  rotate: false
+  xy: 483, 765
+  size: 480, 64
+  orig: 480, 64
+  offset: 0, 0
+  index: -1
+greyscale
+  rotate: false
+  xy: 1, 633
+  size: 368, 64
+  orig: 368, 64
+  offset: 0, 0
+  index: -1
+instruction
+  rotate: false
+  xy: 483, 831
+  size: 480, 64
+  orig: 480, 64
+  offset: 0, 0
+  index: -1
+music
+  rotate: false
+  xy: 483, 699
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+records
+  rotate: false
+  xy: 1, 699
+  size: 480, 64
+  orig: 480, 64
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 1, 567
+  size: 244, 64
+  orig: 244, 64
+  offset: 0, 0
+  index: -1

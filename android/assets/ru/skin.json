@@ -1,0 +1,34 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	game: {
+		imageUp: game
+	}
+	agility: {
+		imageUp: agility
+	}
+	instruction: {
+		imageUp: instruction
+	}
+	controls: {
+		imageUp: controls
+	}
+	records: {
+		imageUp: records
+	}
+	exit: {
+		imageUp: exit
+	}
+	gamepad: {
+		imageUp: gamepad
+	}
+	music: {
+		imageUp: music
+	}
+	sound: {
+		imageUp: sound
+	}
+	greyscale: {
+		imageUp: greyscale
+	}
+}
+}
