@@ -16,12 +16,12 @@ public class Config {
     // speed table
     // man figure time/ man sped/ man sleep time/ devil figure time/ devil speed/ devil sleep time/ bullet speed/ magic wall update time
     private static final float[][] speed = {
-            { 0, 0, 0, 0, 0, 0, 0, 0 },
-            { 0, 0, 0, 0, 0, 0, 0, 0 },
-            { 0, 0, 0, 0, 0, 0, 0, 0 },
             { 0.08f, 150f, 0.5f, 0.12f, 95f, 1.1f, 550f, 6f },
-            { 0, 0, 0, 0, 0, 0, 0, 0 },
-            { 0, 0, 0, 0, 0, 0, 0, 0 }
+            { 0.08f, 150f, 0.5f, 0.12f, 95f, 1.1f, 550f, 6f },
+            { 0.08f, 150f, 0.5f, 0.12f, 95f, 1.1f, 550f, 6f },
+            { 0.08f, 150f, 0.5f, 0.12f, 95f, 1.1f, 550f, 6f },
+            { 0.08f, 150f, 0.5f, 0.12f, 95f, 1.1f, 550f, 6f },
+            { 0.08f, 150f, 0.5f, 0.12f, 95f, 1.1f, 550f, 6f }
     };
 
     public boolean firstStart = true;
