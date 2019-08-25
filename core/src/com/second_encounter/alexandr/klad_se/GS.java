@@ -2,7 +2,7 @@ package com.second_encounter.alexandr.klad_se;
 
 public class GS {
 
-    public static final boolean showFPS       = false;
+    public static final boolean showFPS       = true;
     public static final boolean fabricAnswers = false;
 
     public static final int WIDTH  = 1280;
@@ -10,7 +10,7 @@ public class GS {
 
     public static final int max_touch   = 3;
     public static final int adDefault   = 2;
-    public static final boolean consume = true;
+    public static final boolean debugConsume = true;
 
     public static final String base64EncodedPublicKey = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgMtOVGvXoiEQlzZ4Q2ciIkMvg+Oz+feX5p+2fycP34IZ2D5lyh6dww1PyHkMBoriaMmx7KUHCgjnF0gv9gauWCYByqJp3wKd/cGXlOhojrryUuOQnyBr/5h6dgBJHKKofw8UfdZIVVP5/X9ETXESx4FbOV6ltYAziQ+4Xsjp2xKX8jUistF+68LWwS8Zqt15807iIwotZHooP6ydAvASruc/vgP5YRg6CC3R6KuVt4UI62DPcdXNpf/HPO++SOW9NU4ZK+mzyCQETWbwmwpX9BEBF05WAqccZOXxiYWyC/1rfXaOIOV4yRiRwcQttryHnCCd4JkVejgfSd4DLeR1kQIDAQAB";
     public static final String skuJump = "com.second_encounter.alexandr.klad_se_jump";
@@ -27,5 +27,5 @@ public class GS {
     public static String SC = "OAOneTeam";
     public static String AF = "OAOneTeam";
 
-    public static String privacyPolicyLink = "https://github.com/OAOneTeam/Maze/blob/master/privacy_policy%20_maze.md";
+    public static String privacyPolicyLink = "https://github.com/OAOneTeam/maze_privacy/blob/master/privacy_policy%20_maze.md";
 }

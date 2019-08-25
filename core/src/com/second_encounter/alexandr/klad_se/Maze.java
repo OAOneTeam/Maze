@@ -32,7 +32,7 @@ public class Maze extends Game {
 	public GameMusic music;
 	public GameSound sound;
 	public TextureAtlas commonAtlas, miniAtlas, languageAtlas;
-	public VExtend extendViewport;
+	public VExtend extendViewport, zoomExtendViewport;
     public SpriteBatch batch;
     public Stage stage;
     public Skin skinCommon, skinLanguage;
@@ -76,6 +76,8 @@ public class Maze extends Game {
 		bundle = new LanguageBundle("localize_" + config.getLanguage() + ".xml");
 		//
         extendViewport = new VExtend(GS.WIDTH, GS.HEIGHT);
+        zoomExtendViewport = new VExtend(GS.WIDTH, GS.HEIGHT);
+        zoomExtendViewport.camera.zoom = 1f;
         batch = new SpriteBatch();
         stage = new Stage(extendViewport);
         stage.setDebugAll(false);
@@ -103,6 +105,8 @@ public class Maze extends Game {
 	public void render () {
 		Gdx.gl.glClearColor(0, 0, 0, 1);
 		Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
+		extendViewport.apply(true);
+        batch.setProjectionMatrix(extendViewport.camera.combined);
 		super.render();
         stage.act();
         stage.draw();
@@ -120,9 +124,8 @@ public class Maze extends Game {
 	@Override
 	public void resize (int width, int height) {
         extendViewport.update(width, height, true);
+        zoomExtendViewport.update(width, height, true);
         super.resize(width, height);
-        extendViewport.apply(true);
-        batch.setProjectionMatrix(extendViewport.camera.combined);
         shadow.resize();
 	}
 

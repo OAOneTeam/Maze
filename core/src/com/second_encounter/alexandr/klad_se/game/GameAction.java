@@ -251,6 +251,8 @@ public class GameAction {
     }
 
     public void draw(float delta) {
+        game.zoomExtendViewport.apply();
+        game.batch.setProjectionMatrix(game.zoomExtendViewport.camera.combined);
         if (room.draw(delta, action)) {
             if (room.isReady()) {
                 if (initialized) {
@@ -320,6 +322,8 @@ public class GameAction {
                 }
             }
         }
+        game.extendViewport.apply(true);
+        game.batch.setProjectionMatrix(game.extendViewport.camera.combined);
     }
 
     public void resize() {

@@ -17,7 +17,7 @@ public class GameTouchpad {
     private Vector2[] vector2s = new Vector2[GS.max_touch];
     private Rectangle[] rectangles = new Rectangle[6];
     private TextureRegion[] regions = new TextureRegion[6];
-    private int index, touchX, touchY, sizeIndex = 0;
+    private int index, touchX, touchY, sizeIndex = 1;
     private float areaWidth, areaHeight;
     private boolean isArrangement = false, isTouched = false, debugDraw = false;
     private final float[] dimensions = { 96, 128, 160 };
@@ -163,6 +163,10 @@ public class GameTouchpad {
 
     public void setDebugDraw(boolean debug) {
         debugDraw = debug;
+    }
+
+    public int getSizeIndex() {
+        return sizeIndex;
     }
     
     public void save() {

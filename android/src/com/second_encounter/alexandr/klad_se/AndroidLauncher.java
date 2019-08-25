@@ -56,13 +56,13 @@ public class AndroidLauncher extends AndroidApplication {
 							billing.consumeAsync(purchase.getPurchaseToken());
 							break;
 						case GS.skuSecondChapter:
-                            if (BuildConfig.DEBUG && GS.consume)
+                            if (BuildConfig.DEBUG && GS.debugConsume)
                                 billing.consumeAsync(purchase.getPurchaseToken());
                             else
                                 GS.SC = GS.skuSecondChapter;
                             break;
 						case GS.skuAllFeatures:
-							if (BuildConfig.DEBUG && GS.consume)
+							if (BuildConfig.DEBUG && GS.debugConsume)
 								billing.consumeAsync(purchase.getPurchaseToken());
 							else
                                 GS.AF = GS.skuAllFeatures;

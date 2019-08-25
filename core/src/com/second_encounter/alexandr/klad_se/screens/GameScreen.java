@@ -48,6 +48,7 @@ public class GameScreen extends InputAdapter implements Screen, GameTouchpad.Gam
 
     public GameScreen(final Maze game, int level) {
         this.game = game;
+        game.zoomExtendViewport.camera.zoom = 0.9f;
         action = new GameAction(game, level);
         action.setAction(true);
         touchpad = new GameTouchpad(game, this);
@@ -254,6 +255,7 @@ public class GameScreen extends InputAdapter implements Screen, GameTouchpad.Gam
             }
         });
         buttonSettingsSlider = new Slider(0, 2, 1, false, game.skinCommon, "small");
+        buttonSettingsSlider.setValue(touchpad.getSizeIndex());
         buttonSettingsSlider.addListener(new ChangeListener() {
             @Override
             public void changed(ChangeEvent event, Actor actor) {

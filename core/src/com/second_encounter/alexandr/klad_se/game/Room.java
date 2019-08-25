@@ -168,7 +168,8 @@ public class Room {
             if (unit.id > 0)
                 game.batch.draw(game.data.getSprite(unit.part, unit.id), getX() + unit.x, getTop() - unit.y);
         }
-        game.batch.draw(frame, x - 27, y - 35);
+        if (game.config.drawFrame)
+            game.batch.draw(frame, x - 27, y - 35);
         return action;
     }
 

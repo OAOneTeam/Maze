@@ -83,6 +83,6 @@ public class Progress extends Table {
     }
 
     public void resize() {
-        setPosition(Tools.half(game.stage.getWidth() - getWidth() * getScaleX()), room.getY() - 88);
+        setPosition(Tools.half(game.stage.getWidth() - getWidth() * getScaleX()), room.getY() - (game.config.drawFrame ? 88 : 68));
     }
 }

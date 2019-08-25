@@ -27,6 +27,7 @@ public class Config {
     public boolean firstStart = true;
     public boolean showPrivacyWarning = true;
     public boolean greyscale = false;
+    public boolean drawFrame = false;
     // game speed
     public int agility = 3;
     //
